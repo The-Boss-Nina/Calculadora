@@ -17,4 +17,4 @@ Subtração, Multiplicação e Divisão).
 
 # Requisitos
 
--Interpretador Python 3 ou superior.
+- Interpretador Python 3 ou superior.
